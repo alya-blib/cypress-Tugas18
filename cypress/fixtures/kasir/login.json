@@ -1,0 +1,7 @@
+{
+    "validEmail": "alyacake@gmail.com",
+    "validPassword": "password",
+    "linkDashboard": "dashboard",
+    "invalidEmail": "invalidemail@gmail.com",
+    "alertKredensial": "Kredensial yang Anda berikan salah"
+}
